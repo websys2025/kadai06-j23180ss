@@ -8,7 +8,7 @@ params = {
     "appId": APP_ID,
     "LANG":"J",
     "statsDataId":"0004024800", #病院数，年次・都道府県別
-    "cdArea": "1",
+    "cdCat02": "13", #参照する都道府県を千葉県のみに指定
     
 }
 
